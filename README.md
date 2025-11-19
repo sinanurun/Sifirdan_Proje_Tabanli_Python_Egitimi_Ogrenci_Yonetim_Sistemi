@@ -1,0 +1,2 @@
+# Sifirdan_Proje_Tabanli_Python_Egitimi_Ogrenci_Yonetim_Sistemi
+Python programlamayı sıfırdan ve tamamen proje tabanlı bir yaklaşımla öğrenmek isteyenler için hazırlanmış kapsamlı bir eğitim içeriğini barındırır. Eğitim boyunca temel Python bilgilerinden başlayarak; dosya işlemleri, fonksiyonlar, hata yönetimi, OOP (Nesne Yönelimli Programlama) ve basit veri tabanı mantığı gibi konular işlenmektedir.
