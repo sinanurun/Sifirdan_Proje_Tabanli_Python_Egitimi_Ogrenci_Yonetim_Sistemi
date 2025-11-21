@@ -76,9 +76,8 @@ gibi işlemler uygulamalı olarak yapılır.
 Aşağıdaki alanlara YouTube linklerini hazır olduğunda ekleyebilirsin:
 
 ▶️ 1. Ders – Python Temelleri Veri Tipleri Print() Komutu ve Değişken Tanımlama:  
-    
-    * Youtube :  
-    * Colab.  : https://colab.research.google.com/drive/1tuughXR_qdnLjIzupyD-H5CtgIys_lT_?usp=sharing. 
+* Youtube :  
+* Colab.  : https://colab.research.google.com/drive/1tuughXR_qdnLjIzupyD-H5CtgIys_lT_?usp=sharing. 
 
 
 ▶️ 2. Ders – Fonksiyonlar & Dosya İşlemleri: Bağlantı
