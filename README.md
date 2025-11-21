@@ -71,12 +71,12 @@ gibi işlemler uygulamalı olarak yapılır.
 ```
 
 
-📺 Ders Videoları (Bağlantılar Eklenecek)
+📺 Ders Videoları Oynatma Listesi : https://www.youtube.com/playlist?list=PLv5gvG08kLQeX1T5a7APCMpzBH9K1f7Yo
 
 Aşağıdaki alanlara YouTube linklerini hazır olduğunda ekleyebilirsin:
 
 ▶️ 1. Ders – Python Temelleri Veri Tipleri Print() Komutu ve Değişken Tanımlama:  
-* Youtube :  
+* Youtube : https://www.youtube.com/watch?v=_tc1Ex2g3X4&list=PLv5gvG08kLQeX1T5a7APCMpzBH9K1f7Yo&index=1&t=29s   
 * Colab.  : https://colab.research.google.com/drive/1tuughXR_qdnLjIzupyD-H5CtgIys_lT_?usp=sharing. 
 
 
